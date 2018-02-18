@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -640,13 +640,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -1289,12 +1289,12 @@ body {
 }
 .cid-qIXW4oEIxZ .navbar {
   padding: .5rem 0;
-  background: #fffbfb;
+  background: #fdfdfd;
   transition: none;
   min-height: 77px;
 }
 .cid-qIXW4oEIxZ .navbar-dropdown.bg-color.transparent.opened {
-  background: #fffbfb;
+  background: #fdfdfd;
 }
 .cid-qIXW4oEIxZ a {
   font-style: normal;
@@ -1378,7 +1378,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIXW4oEIxZ .dropdown .dropdown-menu {
-  background: #fffbfb;
+  background: #fdfdfd;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1901,12 +1901,12 @@ body {
 }
 .cid-qIZ3gU7qyT .navbar {
   padding: .5rem 0;
-  background: #fffbfb;
+  background: #fdfdfd;
   transition: none;
   min-height: 77px;
 }
 .cid-qIZ3gU7qyT .navbar-dropdown.bg-color.transparent.opened {
-  background: #fffbfb;
+  background: #fdfdfd;
 }
 .cid-qIZ3gU7qyT a {
   font-style: normal;
@@ -1990,7 +1990,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIZ3gU7qyT .dropdown .dropdown-menu {
-  background: #fffbfb;
+  background: #fdfdfd;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2559,12 +2559,12 @@ body {
 }
 .cid-qJxFmkd3Rw .navbar {
   padding: .5rem 0;
-  background: #fffbfb;
+  background: #fdfdfd;
   transition: none;
   min-height: 77px;
 }
 .cid-qJxFmkd3Rw .navbar-dropdown.bg-color.transparent.opened {
-  background: #fffbfb;
+  background: #fdfdfd;
 }
 .cid-qJxFmkd3Rw a {
   font-style: normal;
@@ -2648,7 +2648,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qJxFmkd3Rw .dropdown .dropdown-menu {
-  background: #fffbfb;
+  background: #fdfdfd;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3102,12 +3102,12 @@ body {
 }
 .cid-qJOVDX5ime .navbar {
   padding: .5rem 0;
-  background: #fffbfb;
+  background: #fdfdfd;
   transition: none;
   min-height: 77px;
 }
 .cid-qJOVDX5ime .navbar-dropdown.bg-color.transparent.opened {
-  background: #fffbfb;
+  background: #fdfdfd;
 }
 .cid-qJOVDX5ime a {
   font-style: normal;
@@ -3191,7 +3191,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qJOVDX5ime .dropdown .dropdown-menu {
-  background: #fffbfb;
+  background: #fdfdfd;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3630,12 +3630,12 @@ body {
 }
 .cid-qIXW4oEIxZ .navbar {
   padding: .5rem 0;
-  background: #fffbfb;
+  background: #fdfdfd;
   transition: none;
   min-height: 77px;
 }
 .cid-qIXW4oEIxZ .navbar-dropdown.bg-color.transparent.opened {
-  background: #fffbfb;
+  background: #fdfdfd;
 }
 .cid-qIXW4oEIxZ a {
   font-style: normal;
@@ -3719,7 +3719,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIXW4oEIxZ .dropdown .dropdown-menu {
-  background: #fffbfb;
+  background: #fdfdfd;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4101,7 +4101,7 @@ body {
 .cid-qK1M1Hc0kV {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #fffbfb;
+  background-color: #fdfdfd;
 }
 .cid-qK1M1Hc0kV .mbr-section-subtitle {
   color: #767676;
@@ -4148,7 +4148,7 @@ body {
 .cid-qJCKXiP6Yz {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #fffbfb;
+  background-color: #fdfdfd;
 }
 .cid-qJCKXiP6Yz .mbr-text,
 .cid-qJCKXiP6Yz blockquote {
@@ -4156,12 +4156,12 @@ body {
 }
 .cid-qJCKXmhoq6 .navbar {
   padding: .5rem 0;
-  background: #fffbfb;
+  background: #fdfdfd;
   transition: none;
   min-height: 77px;
 }
 .cid-qJCKXmhoq6 .navbar-dropdown.bg-color.transparent.opened {
-  background: #fffbfb;
+  background: #fdfdfd;
 }
 .cid-qJCKXmhoq6 a {
   font-style: normal;
@@ -4245,7 +4245,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qJCKXmhoq6 .dropdown .dropdown-menu {
-  background: #fffbfb;
+  background: #fdfdfd;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4538,7 +4538,7 @@ body {
 .cid-qJCKXpRXpF {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #fffbfb;
+  background-color: #fdfdfd;
 }
 .cid-qJCKXpRXpF .row-links {
   width: 100%;
