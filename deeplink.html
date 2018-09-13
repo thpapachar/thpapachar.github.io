@@ -1,17 +1,26 @@
+
+</html>
 <!DOCTYPE HTML>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Redirect</title>
 <script type="text/javascript"> // <![CDATA[
-//iPhone Version:
-if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
-    window.location = "https://itunes.apple.com/gr/app/cosmote-ufixit/id1235021952?l=el&mt=8";
+// iPhone or iPad Version:
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i))) {
+    window.location = "itms-apps://itunes.apple.com/app/id1235021952";
 }
-//Android Version:
+// Android Version:
 if(navigator.userAgent.match(/android/i)) {
     window.location = "market://details?id=gr.cosmote.ufixit";
+}
+// ELSE
+else {
+    window.location = "https://www.cosmote.gr";
+}
  
 </script>
+</head>
+<body>
 </body>
 </html>
